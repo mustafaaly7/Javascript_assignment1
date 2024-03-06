@@ -10,10 +10,12 @@
 
 //  Chap 2 Variable
 
-var userName = "Muhammad Mustafa Ali";
-var age = "I'm 20 Yrs old";
-var certificate = "Soon To be Certified Saylani web & mobile dev student";
-alert(userName);
-alert(age);
-alert( certificate);
+// var userName = "Muhammad Mustafa Ali";
+// var age = "I'm 20 Yrs old";
+// var certificate = "Soon To be Certified Saylani web & mobile dev student";
+// alert(userName);
+// alert(age);
+// alert( certificate);
 
+var word= "Pizza";
+alert();
