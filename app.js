@@ -47,5 +47,21 @@
 
 //  CHAPTER 3
 
-var age = " I am 20 Years old";
-alert(age);
+// var age = " I am 20 Years old";
+// alert(age);
+
+
+
+// CHAPTER 5
+
+// var num1 = 5;
+// var num2 = 3;
+// var sum = num1 + num2 ;
+// alert("sum of 3 and 5 is " + sum);
+
+
+
+var num = 4;
+var i = 1 ;
+var result = num *i;
+alert(num * i )
