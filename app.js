@@ -23,3 +23,17 @@
 
 // var word= "Pizza \n pizz \n piz \n pi \n p";
 // alert(word);
+
+
+
+
+// email add and email 
+// var name =" My Email Address Is ";
+// var email = "mustafaaaly27@gmail.com";
+// var sentence = name + email;
+// alert(sentence) 
+
+
+
+var design = "▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬";
+alert(design);
