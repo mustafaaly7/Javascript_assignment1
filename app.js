@@ -35,5 +35,13 @@
 
 
 
-var design = "▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬";
-alert(design);
+// var design = "▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬";
+// alert(design);
+
+
+// var sentence1 =" I'm trying to learn from a book.";
+// var sentence2 = " A smarter way to learn javascript";
+// alert(sentence1 + sentence2);
+
+
+
