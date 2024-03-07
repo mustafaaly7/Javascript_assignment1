@@ -45,3 +45,7 @@
 
 
 
+//  CHAPTER 3
+
+var age = " I am 20 Years old";
+alert(age);
