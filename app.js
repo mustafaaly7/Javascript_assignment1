@@ -17,5 +17,9 @@
 // alert(age);
 // alert( certificate);
 
-var word= "Pizza";
-alert();
+
+// PIZZA 
+
+
+// var word= "Pizza \n pizz \n piz \n pi \n p";
+// alert(word);
