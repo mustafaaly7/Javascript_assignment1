@@ -59,9 +59,17 @@
 // var sum = num1 + num2 ;
 // alert("sum of 3 and 5 is " + sum);
 
+// var num1 = 5;
+// var num2 = 3;
+// var sub = num1 - num2 ;
+// alert("sub of 3 and 5 is " + sub);
 
+// var num1 = 5;
+// var num2 = 3;
+// var product = num1 * num2 ;
+// alert("product of 3 and 5 is " + product);
 
-var num = 4;
-var i = 1 ;
-var result = num *i;
-alert(num * i )
+// var num1 = 10;
+// var num2 = 2;
+// var division = num1 / num2 ;
+// alert("division of" +   " " + num1 +" and " + num2 + "is" + " " + division);
