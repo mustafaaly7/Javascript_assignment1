@@ -73,3 +73,24 @@
 // var num2 = 2;
 // var division = num1 / num2 ;
 // alert("division of" +   " " + num1 +" and " + num2 + "is" + " " + division);
+
+
+
+// Price of one movie ticket (in PKR)
+// const ticketPrice = 600;
+
+// // Number of tickets to buy
+// const numTickets = 5;
+
+// // Calculate total cost
+// const totalCost = ticketPrice * numTickets;
+
+// // Get the paragraph element where we'll display the cost
+// const costElement = document.getElementById("ticketResult");
+
+// // Update the paragraph content with the calculated cost
+// costElement.textContent = "The total cost of buying " + numTickets + " tickets is " + totalCost + " PKR.";
+
+
+
+
