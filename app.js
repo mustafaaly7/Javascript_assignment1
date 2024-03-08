@@ -94,3 +94,53 @@
 
 
 
+// let celsiusTemp = 25;
+// let fahrenheitTemp = (celsiusTemp * 9/5) + 32;
+// console.log(celsiusTemp, "°C is equal to", fahrenheitTemp, "°F");
+// alert(celsiusTemp+ "°C is equal to"+ fahrenheitTemp+ "°F");
+
+
+// Function to add an item to the cart
+// function addToCart(itemId, itemName, price) {
+//     // Get a reference to the cart items list
+//     const cartList = document.getElementById("cart-items");
+
+//     // Create a list item element to represent the cart item
+//     const cartItem = document.createElement("li");
+
+//     // Set the content of the list item to show product details
+//     cartItem.textContent = itemId + ". " + itemName + " - $" + price;
+
+//     // Add the cart item to the list
+//     cartList.appendChild(cartItem);
+//   }
+
+// let totalMarks = 750 ;
+// let marksObtained = 530;
+// let Percentage = marksObtained / totalMarks * 100;
+
+// const total = document.getElementById("marks");
+// total.textContent ="total Marks =" +  totalMarks;
+
+// const obtained= document.getElementById("obt")
+// obtained.textContent = "marks Obtained =" + marksObtained; 
+
+// const result = document.getElementById ("percentageTotal");
+
+// result.textContent = "total Percentage" + Percentage + " %" ;
+
+
+
+
+var choclate = "choclate chip"
+const snack = document.getElementById("snack")
+snack.textContent = "Favourite Snack :" + choclate ;
+var age1 = 20;
+const cAge = document.getElementById("cAge");
+cAge.textContent = "Current Age :" + age1;
+
+var estimateAge = 69;
+const eAge = document.getElementById("eAge");
+eAge.textContent = "Estimated Age : " + estimateAge ; 
+
+// var allSnack = 
